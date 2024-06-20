@@ -12,7 +12,9 @@
 - 🌱 I’m currently learning **Node JS, Tailwind CSS**
 
 - 💬 Ask me about **MERN, C++, DSA**
-
+  
+- 👋 Checkout my **Portfolio** at <a href="https://swadesh-kumar-portfolio.netlify.app/"> **Proof of Work** </a>
+  
 - 📫 How to reach me **swadeshkumar.career@gmail.com**
 
 - ⚡ Fun fact **Code never lies, comments sometimes do**
